@@ -10,12 +10,12 @@
 
 ```json
 {
-    "id": "317457", // OutAirports ID
+    "id": 317457, // OutAirports ID
     "ident": "LTFM", // ICAO Code or IDENT
     "type": "large_airport",
     "name": "İstanbul Airport",
-    "latitude": "41.261297",
-    "longitude": "28.741951",
+    "latitude": 41.261297,
+    "longitude": 28.741951,
     "elevation": "325",
     "continent": "EU",
     "iso_country": "TR",
@@ -35,12 +35,12 @@
 
 ```json
 {
-    "id": "333707",
-    "airport_ref": "317457",
+    "id": 333707,
+    "airport_ref": 317457,
     "airport_ident": "LTFM",
     "type": "Clearance",
     "description": "Istanbul Clearance Delivery",
-    "frequency": "121.7"
+    "frequency": 121.7
 }
 ```
 
@@ -48,8 +48,8 @@
 
 ```json
 {
-    "id": "329986",
-    "airport_ref": "317457",
+    "id": 329986,
+    "airport_ref": 317457,
     "airport_ident": "LTFM",
     "length": 12303, // ft
     "width": 147, // ft
