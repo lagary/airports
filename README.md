@@ -16,7 +16,7 @@
     "name": "İstanbul Airport",
     "latitude": 41.261297,
     "longitude": 28.741951,
-    "elevation": "325",
+    "elevation": 325, // ft
     "continent": "EU",
     "iso_country": "TR",
     "iso_region": "TR-34",
