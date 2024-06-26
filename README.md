@@ -38,7 +38,7 @@
     "id": 333707,
     "airport_ref": 317457,
     "airport_ident": "LTFM",
-    "type": "Clearance",
+    "type": "Clearance", // A code for the frequency type. This isn't (currently) a controlled vocabulary, but probably will be soon. Some common values are "TWR" (tower), "ATF" or "CTAF" (common traffic frequency), "GND" (ground control), "RMP" (ramp control), "ATIS" (automated weather), "RCO" (remote radio outlet), "ARR" (arrivals), "DEP" (departures), "UNICOM" (monitored ground station), and "RDO" (a flight-service station).
     "description": "Istanbul Clearance Delivery",
     "frequency": 121.7
 }
@@ -53,7 +53,7 @@
     "airport_ident": "LTFM",
     "length": 12303, // ft
     "width": 147, // ft
-    "surface": "ASP",
+    "surface": "ASP", // Code for the runway surface type. This is not yet a controlled vocabulary, but probably will be soon. Some common values include "ASP" (asphalt), "TURF" (turf), "CON" (concrete), "GRS" (grass), "GRE" (gravel), "WATER" (water), and "UNK" (unknown).
     "lighted": true,
     "closed": false,
     "le_ident": "16L",
