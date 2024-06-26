@@ -62,7 +62,7 @@
     "le_elevation": 218, // ft
     "le_heading": 174, // deg
     "le_displaced_threshold": 0, // ft
-    "he_ident": "34R", // ft
+    "he_ident": "34R",
     "he_latitude": 41.26490020751953,
     "he_longitude": 28.70989990234375,
     "he_elevation": 325, // ft
