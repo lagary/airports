@@ -3,7 +3,7 @@
 
 **Airport data has been taken from [OurAirports](https://ourairports.com/) and converted to json.**
 
-**for bugs and updates please open an issue or report to [OurAirports](https://ourairports.com/)**
+**for bugs and updates please [open an issue](https://github.com/segecey/airports/issues/new) or report to [OurAirports](https://ourairports.com/)**
 
 
 ## Airport JSON Structure
