@@ -14,8 +14,8 @@
     "ident": "LTFM", // ICAO Code or IDENT
     "type": "large_airport",
     "name": "İstanbul Airport",
-    "latitude": "41.261297", // deg
-    "longitude": "28.741951", // deg
+    "latitude": "41.261297",
+    "longitude": "28.741951",
     "elevation": "325",
     "continent": "EU",
     "iso_country": "TR",
