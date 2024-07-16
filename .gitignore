@@ -1,2 +1,4 @@
 *.csv
 *.php
+airports_v2.json
+/t*
